@@ -1,0 +1,17 @@
+{
+  "name": "i-hooks",
+  "version": "1.0.0",
+  "description": "hooks",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "voocloo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^17.0.14",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.3.5"
+  }
+}
