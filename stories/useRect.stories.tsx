@@ -8,7 +8,7 @@ const App = () => {
   }, [rect]);
   return (
     <>
-      <span>{JSON.stringify(rect)}</span>
+      <span>{null}</span>
       <div className="test" >
         12121
       </div>
